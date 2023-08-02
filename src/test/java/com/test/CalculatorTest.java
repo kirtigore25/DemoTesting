@@ -18,5 +18,15 @@ public class CalculatorTest {
 		
 		
 	}
+	@Test
+	public void newTest()
+	{
+		System.out.println("Temporary Test-a trail test");
+	}
 
+	@Test
+	public void testDiv()
+	{
+		System.out.println("divide");
+	}
 }
